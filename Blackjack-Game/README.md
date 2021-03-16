@@ -1,6 +1,6 @@
 This is a simple text-based blackjack game followed by multiple tutorials.
 
-Completed in Eclipse, if you want to run simply import it in Eclipse.
+Completed in Eclipse, if you want to run simply import it in Eclipse and run.
 
 Concepts of Game:
 - Bet has to be real number no more than the player balance
